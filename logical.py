@@ -1,0 +1,5 @@
+a = int(input("enter the 1st number"))
+b = int(input("enter the 2nd number"))
+print(a > 0 and b < 100)
+print(a > 10 or b < 50)
+print(not(a > 5))
